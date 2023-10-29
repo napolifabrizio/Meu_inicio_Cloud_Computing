@@ -1,7 +1,7 @@
 # Cloud Computing
 
 ## Descrição
-Falaaa, depois de uma motivação, decidi criar um projeto super bacana pra documentar todo meu início em Cloud Computing. E já adianto, não vai ser maravilhas de código. Quero montar um projeto completo pra mostrar tudo que estou aprendendo, minha opinião, principais provedores e até onde acho que essa beleza pode nos levar. Entãooo bora começar!
+Falaaa, depois de uma motivação, decidi criar um projeto super bacana pra documentar todo meu início em Cloud Computing. E já adianto, não vai ser apenas maravilhas de código. Quero montar um projeto completo pra mostrar tudo que estou aprendendo, minha opinião, principais provedores e até onde acho que essa beleza pode nos levar. Entãooo, bora começar!
 
 Dúvidas que esse projeto responde:
   - O que é Cloud Computing?
