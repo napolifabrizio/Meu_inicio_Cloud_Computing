@@ -27,3 +27,9 @@ Nuvem pública --> Coloca TODA sua aplicação na nuvem, usando algum provedor. 
 Nuvem híbrida --> Parte da sua aplicação da nuvem e parte em algum hardware que você deixou em baixo da sua cama. <br> <br>
 On-premises --> TUDO está no datacenter na sua empresa.
 
+## Modelo de responsabilidade compartilhada
+
+Então, você colocou sua aplicação na nuvem e num belo sábado de manhã, sua aplicação sofre com uma falha (seja de performance ou segurança). A culpa é somente sua? A culpa é somente do provedor? DEPENDENDO do caso, a culpa será sua ou será do provedor. Aqui em baixo tem uma fotinha para ilustrar melhor ⬇️
+
+![Foto de responsabilidade compartilhada](./imagens/responsabilidades_cloud)
+
