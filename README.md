@@ -12,10 +12,10 @@ Dúvidas que esse projeto responde:
 
 
 ## Guia de arquivos
-  -Conceitos iniciais.md --> Introdução ao mundo de Cloud
-  -FREE TIER.md --> Explicando sobre período de 12 meses grátis, serviços, pagamentos etc [MUITO importante]
-  -Conceitos iniciais.md --> Introdução ao mundo de Cloud
-  -Pricing.md --> Explicação sobre os principais métodos de precificação pelo uso na Cloud.
+  - Conceitos iniciais.md --> Introdução ao mundo de Cloud
+  - FREE TIER.md --> Explicando sobre período de 12 meses grátis, serviços, pagamentos etc [MUITO importante]
+  - Conceitos iniciais.md --> Introdução ao mundo de Cloud
+  - Pricing.md --> Explicação sobre os principais métodos de precificação pelo uso na Cloud.
 
 
 
