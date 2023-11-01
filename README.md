@@ -16,6 +16,7 @@ Dúvidas que esse projeto responde:
   - FREE TIER.md --> Explicando sobre período de 12 meses grátis, serviços, pagamentos etc [MUITO importante]
   - Conceitos iniciais.md --> Introdução ao mundo de Cloud
   - Pricing.md --> Explicação sobre os principais métodos de precificação pelo uso na Cloud.
+  - estudos.md --> O que eu já estudei (e coloquei em prática) sobre Cloud nos 3 principais provedores.
 
 
 
