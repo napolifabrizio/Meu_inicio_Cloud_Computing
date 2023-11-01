@@ -12,6 +12,7 @@ casa assunto que pratiquei em cada plataforma.
   - VM'S
   - Blobs
   - Files
+  - Vnet
 
 ## Google Cloud
   - VM's
