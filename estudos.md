@@ -7,15 +7,18 @@ complexo, somente para me familiarizar e talvez me aprofundar em algum outro fut
   - VM's
   - S3
   - EFS
+  - VPC
 
 ## Microsoft Azure
   - VM'S
   - Blobs
   - Files
   - Vnet
+  - Cosmos DB
 
 ## Google Cloud
   - VM's
   - Google Storage
   - Filestore
   - Persistent disk
+  - VPC
