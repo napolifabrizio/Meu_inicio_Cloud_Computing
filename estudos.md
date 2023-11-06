@@ -22,3 +22,4 @@ complexo, somente para me familiarizar e talvez me aprofundar em algum outro fut
   - Filestore
   - Persistent disk
   - VPC
+  - Cloud SQL
